@@ -16,7 +16,7 @@ function renderTemplate(template, data) {
 var template = `
     <ul>
         {{#data}}
-        <li>Name: {{name}}, Age: {{age}}, City: {{city}}</li>
+        <li>Name: {{name}}, Age: {{age}}, Description: {{desc}}</li>
         {{/data}}
     </ul>
 `;

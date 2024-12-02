@@ -1,17 +1,39 @@
 [
     {
-        "name": "RR",
-        "age": 35,
-        "city": "San Francisco"
+        "name": "Doc",
+        "age": 60,
+        "desc": "The wise and intelligent dwarf, often depicted with glasses."
     },
     {
-        "name": "Ann Ispen",
+        "name": "Grumpy",
+        "age": 40,
+        "desc": "The grouchy and irritable dwarf, known for his constant complaining."
+    },
+    {
+        "name": "Happy",
+        "age": 40,
+        "desc": "The cheerful and optimistic dwarf, always sporting a big smile."
+    },
+    {
+        "name": "Sleepy",
+        "age": 20,
+        "desc": "The sleepy and lethargic dwarf, often dozing off at random times."
+    },
+    {
+        "name": "Bashful",
         "age": 30,
-        "city": "Los Angeles"
+        "desc": "The shy and blushing dwarf, who becomes embarrassed easily."
     },
     {
-        "name": "Tom Hanks",
-        "age": 22,
-        "city": "Chicago"
+        "name": "Sneezy",
+        "age": 30,
+        "desc": "The dwarf with allergies, known for his frequent and uncontrollable sneezing fits"
+    },
+    {
+        "name": "Dopey",
+        "age": 20,
+        "desc": "The goofy and playful dwarf, who is mute and childlike in nature"
     }
+    
+    
 ]
